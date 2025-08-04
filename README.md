@@ -34,7 +34,7 @@ java Calculator
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](https://github.com/riya-742005/JavaConsoleCalculator/blob/main/Screenshot(105).png?raw=true)
+![Calculator Screenshot]("C:\Users\admin\Pictures\Screenshots\Screenshot (105).png")
 
 ---
 
