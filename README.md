@@ -30,9 +30,5 @@ cd JavaConsoleCalculator
 javac Calculator.java
 java Calculator
 
-📸 Screenshot
-<img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/3f4b1035-4b3d-4e07-b703-c5069738a788" />
-
-
 ✅ This project was created as part of the Java Developer Internship - Task 1.
 
