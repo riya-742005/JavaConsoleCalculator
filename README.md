@@ -32,9 +32,11 @@ java Calculator
 
 📸 Screenshot
 
-<img width="924" height="670" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/230eda24-1439-4c47-a796-b1b51c4edbd2" />
+## 📸 Screenshot
 
+![Calculator Screenshot](https://github.com/riya-742005/JavaConsoleCalculator/blob/main/Screenshot106.png?raw=true)
 
-This was done for the Java Developer Internship Task 1.
+---
 
+✅ This project was created as part of the Java Developer Internship - Task 1.
 
