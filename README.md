@@ -34,7 +34,9 @@ java Calculator
 
 ## 📸 Screenshot
 
-![Calculator Screenshot]("C:\Users\admin\Pictures\Screenshots\Screenshot (105).png")
+![Calculator Screenshot]("<img width="924" height="670" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/c875b439-2939-457e-925c-fd9ae662b35a" />")
+
+
 
 ---
 
