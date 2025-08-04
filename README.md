@@ -32,9 +32,9 @@ java Calculator
 
 📸 Screenshot
 
-## 📸 Screenshot
 
-![Calculator Screenshot]("<img width="924" height="670" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/c875b439-2939-457e-925c-fd9ae662b35a" />")
+![Calculator Screenshot](https://github.com/riya-742005/JavaConsoleCalculator/blob/main/Screenshot%20(106).png?raw=true)
+
 
 
 
