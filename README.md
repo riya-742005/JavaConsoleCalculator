@@ -32,7 +32,8 @@ java Calculator
 
 📸 Screenshot
 
-<img width="924" height="670" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/53b96b16-1563-424c-a7ea-867033fdaf8d" />
+
+<img width="924" height="670" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/8f7bb8e6-a257-4a5b-aa19-17c085da9d84" />
 
 This was done for the Java Developer Internship Task 1.
 
